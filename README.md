@@ -9,3 +9,5 @@ Designed by Yulya Zhdanova, Ivan Petrov in 2010-2011.
 Artifika is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Artifika Font](src/sample.png)
