@@ -8484,13 +8484,14 @@ width = 410;
 unicode = 00A0;
 },
 {
-glyphname = CR.001;
+glyphname = CR;
 layers = (
 {
 layerId = UUID0;
-width = 410;
+width = 600;
 }
 );
+unicode = 000D;
 },
 {
 glyphname = cent;
