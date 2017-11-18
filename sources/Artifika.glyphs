@@ -8484,14 +8484,13 @@ width = 410;
 unicode = 00A0;
 },
 {
-glyphname = CR;
+glyphname = CR.001;
 layers = (
 {
 layerId = UUID0;
 width = 410;
 }
 );
-unicode = 000D;
 },
 {
 glyphname = cent;
@@ -10263,6 +10262,16 @@ unicode = 005E;
 glyphname = dieresiscomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{513, 1045}";
+},
+{
+name = top;
+position = "{513, 1516}";
+}
+);
 components = (
 {
 name = dieresis;
@@ -10278,6 +10287,16 @@ unicode = 0308;
 glyphname = dotaccentcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{455, 1045}";
+},
+{
+name = top;
+position = "{455, 1630}";
+}
+);
 components = (
 {
 name = dotaccent;
@@ -10293,6 +10312,16 @@ unicode = 0307;
 glyphname = gravecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{450, 1045}";
+},
+{
+name = top;
+position = "{390, 1573}";
+}
+);
 components = (
 {
 name = grave;
@@ -10308,6 +10337,16 @@ unicode = 0300;
 glyphname = acutecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{156, 1045}";
+},
+{
+name = top;
+position = "{276, 1573}";
+}
+);
 components = (
 {
 name = acute;
@@ -10323,6 +10362,16 @@ unicode = 0301;
 glyphname = hungarumlautcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{652, 1045}";
+},
+{
+name = top;
+position = "{652, 1573}";
+}
+);
 components = (
 {
 name = hungarumlaut;
@@ -10338,6 +10387,16 @@ unicode = 030B;
 glyphname = circumflexcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{387, 1045}";
+},
+{
+name = top;
+position = "{387, 1573}";
+}
+);
 components = (
 {
 name = circumflex;
@@ -10353,6 +10412,16 @@ unicode = 0302;
 glyphname = caroncomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{580, 1045}";
+},
+{
+name = top;
+position = "{580, 1602}";
+}
+);
 components = (
 {
 name = caron;
@@ -10368,6 +10437,16 @@ unicode = 030C;
 glyphname = brevecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{523, 1045}";
+},
+{
+name = top;
+position = "{523, 1591}";
+}
+);
 components = (
 {
 name = breve;
@@ -10383,6 +10462,16 @@ unicode = 0306;
 glyphname = ringcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{299, 1045}";
+},
+{
+name = top;
+position = "{299, 1667}";
+}
+);
 components = (
 {
 name = ring;
@@ -10398,6 +10487,16 @@ unicode = 030A;
 glyphname = tildecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{599, 1045}";
+},
+{
+name = top;
+position = "{599, 1503}";
+}
+);
 components = (
 {
 name = tilde;
@@ -10413,6 +10512,16 @@ unicode = 0303;
 glyphname = macroncomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{526, 1045}";
+},
+{
+name = top;
+position = "{526, 1303}";
+}
+);
 components = (
 {
 name = macron;

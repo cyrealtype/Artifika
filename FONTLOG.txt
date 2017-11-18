@@ -26,13 +26,18 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-Source files:
+Source file:
 
-1. Artifika-Regular-OTF.vfb (Decomposed, merged 
-   and optimized file with PS contours)
-2. Artifika-Regular-TTF.vbf (Mastered TTF file with manual hints)
+Artifika.glyphs (Glyphs App file)
 
 ChangeLog
+
+18 November 2017 (Alexei Vanyashin) Artifika v. 1.100
+— Moving source file to Glyphs App
+— Added missing Latin Core glyphs
+— Added combining marks
+— Fixes #1
+— Regenerated TTF files
 
 20 May 2011 (Alexei Vanyashin) Artifika v. 1.000
 - Initial release
@@ -45,3 +50,11 @@ N: Alexei Vanyashin
 E: a (at) cyreal.org
 W: www.cyreal.org
 D: Spacing and Mastering
+
+N: Ivan Petrov
+E: malamaka@yandex.ru
+D: Latin Glyphs expansion
+
+N: Yulia Zhdanova
+E: adamantem@mail.ru
+D: Designer of original font
