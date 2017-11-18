@@ -1,4 +1,4 @@
-#Artifika Font Project
+# Artifika Font Project
 
 Artifika is an amiable upright italic for fashionable display titling.
 
