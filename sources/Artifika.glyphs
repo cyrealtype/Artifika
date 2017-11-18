@@ -11201,8 +11201,7 @@ instances = (
 instanceInterpolations = {
 UUID0 = 1;
 };
-name = Medium;
-weightClass = Medium;
+name = Regular;
 }
 );
 kerning = {
