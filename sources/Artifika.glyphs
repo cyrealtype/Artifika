@@ -36,7 +36,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2011-05-12 07:47:45 +0000";
+date = "2017-11-18 12:28:21 +0000";
 designer = "Yulya Zhdanova, Ivan Petrov | Cyreal.org";
 designerURL = "http://cyreal.org";
 disablesAutomaticAlignment = 1;
@@ -11126,16 +11126,6 @@ leftKerningGroup = foundryicon;
 rightKerningGroup = foundryicon;
 },
 {
-glyphname = uni0000;
-layers = (
-{
-layerId = UUID0;
-width = 600;
-}
-);
-unicode = 0000;
-},
-{
 glyphname = NULL;
 layers = (
 {
@@ -12487,5 +12477,5 @@ manufacturer = "Yulya Zhdanova, Ivan Petrov";
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
