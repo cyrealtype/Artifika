@@ -10260,6 +10260,201 @@ width = 1391;
 unicode = 005E;
 },
 {
+glyphname = dieresiscomb;
+layers = (
+{
+components = (
+{
+name = dieresis;
+}
+);
+layerId = UUID0;
+width = 1026;
+}
+);
+unicode = 0308;
+},
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+components = (
+{
+name = dotaccent;
+}
+);
+layerId = UUID0;
+width = 909;
+}
+);
+unicode = 0307;
+},
+{
+glyphname = gravecomb;
+layers = (
+{
+components = (
+{
+name = grave;
+}
+);
+layerId = UUID0;
+width = 985;
+}
+);
+unicode = 0300;
+},
+{
+glyphname = acutecomb;
+layers = (
+{
+components = (
+{
+name = acute;
+}
+);
+layerId = UUID0;
+width = 555;
+}
+);
+unicode = 0301;
+},
+{
+glyphname = hungarumlautcomb;
+layers = (
+{
+components = (
+{
+name = hungarumlaut;
+}
+);
+layerId = UUID0;
+width = 1087;
+}
+);
+unicode = 030B;
+},
+{
+glyphname = circumflexcomb;
+layers = (
+{
+components = (
+{
+name = circumflex;
+}
+);
+layerId = UUID0;
+width = 774;
+}
+);
+unicode = 0302;
+},
+{
+glyphname = caroncomb;
+layers = (
+{
+components = (
+{
+name = caron;
+}
+);
+layerId = UUID0;
+width = 1159;
+}
+);
+unicode = 030C;
+},
+{
+glyphname = brevecomb;
+layers = (
+{
+components = (
+{
+name = breve;
+}
+);
+layerId = UUID0;
+width = 1044;
+}
+);
+unicode = 0306;
+},
+{
+glyphname = ringcomb;
+layers = (
+{
+components = (
+{
+name = ring;
+}
+);
+layerId = UUID0;
+width = 596;
+}
+);
+unicode = 030A;
+},
+{
+glyphname = tildecomb;
+layers = (
+{
+components = (
+{
+name = tilde;
+}
+);
+layerId = UUID0;
+width = 1198;
+}
+);
+unicode = 0303;
+},
+{
+glyphname = macroncomb;
+layers = (
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = UUID0;
+width = 1051;
+}
+);
+unicode = 0304;
+},
+{
+glyphname = cedillacomb;
+layers = (
+{
+components = (
+{
+name = cedilla;
+}
+);
+layerId = UUID0;
+width = 1063;
+}
+);
+unicode = 0327;
+},
+{
+glyphname = ogonekcomb;
+layers = (
+{
+components = (
+{
+name = ogonek;
+}
+);
+layerId = UUID0;
+width = 1104;
+}
+);
+unicode = 0328;
+},
+{
 glyphname = acute;
 layers = (
 {
