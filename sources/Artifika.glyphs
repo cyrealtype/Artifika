@@ -7,10 +7,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = description;
-value = "Copyright (c) 2010 by Yulya Zhdanova. All rights reserved.";
-},
-{
 name = trademark;
 value = "Artifika Medium is a trademark of Yulya Zhdanova, Ivan Petrov.";
 },
