@@ -1,19 +1,7 @@
 {
-.appVersion = "1352";
+.appVersion = "3110";
 copyright = "Copyright 2010 The Artifika Project Authors (https://github.com/cyrealtype/Artifika)";
 customParameters = (
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = trademark;
-value = "Artifika Medium is a trademark of Yulya Zhdanova, Ivan Petrov.";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
 {
 name = fsType;
 value = (
@@ -30,9 +18,21 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Artifika is a trademark of Cyreal.org";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 }
 );
-date = "2022-01-07 13:13:59 +0000";
+date = "2022-01-21 09:48:58 +0000";
 designer = "Yulya Zhdanova, Ivan Petrov | Cyreal.org";
 designerURL = "http://cyreal.org";
 disablesAutomaticAlignment = 1;
@@ -12781,9 +12781,9 @@ slash = -30;
 };
 };
 };
-manufacturer = "Yulya Zhdanova, Ivan Petrov";
+manufacturer = Cyreal.org;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 101;
+versionMinor = 102;
 }
