@@ -1,14 +1,10 @@
 {
-.appVersion = "1075";
+.appVersion = "1352";
 copyright = "Copyright 2010 The Artifika Project Authors (https://github.com/cyrealtype/Artifika)";
 customParameters = (
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
-},
-{
-name = description;
-value = "Copyright (c) 2010 by Yulya Zhdanova. All rights reserved.";
 },
 {
 name = trademark;
@@ -36,7 +32,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-11-18 12:28:21 +0000";
+date = "2022-01-07 13:13:59 +0000";
 designer = "Yulya Zhdanova, Ivan Petrov | Cyreal.org";
 designerURL = "http://cyreal.org";
 disablesAutomaticAlignment = 1;
@@ -76,12 +72,12 @@ code = "@_KERN_A_1ST=[A  Aacute Acircumflex Adieresis Agrave Aring Atilde];
 @_KERN_d_2ND=[d ];
 @_KERN_e_1ST=[e  ae eacute ecircumflex edieresis egrave oe];
 @_KERN_f_2ND=[f  germandbls];
-@_KERN_guilsinglleft=[guilsinglleft  guillemotleft];
-@_KERN_guilsinglright=[guilsinglright  guillemotright];
+@_KERN_guilsinglleft=[guilsinglleft  guillemetleft];
+@_KERN_guilsinglright=[guilsinglright  guillemetright];
 @_KERN_h_2ND=[h  k];
-@_KERN_hyphen=[hyphen  emdash endash uni00AD];
-@_KERN_i_1ST=[i  dotlessi iacute icircumflex idieresis igrave];
-@_KERN_i_2ND=[i  dotlessi iacute icircumflex idieresis igrave];
+@_KERN_hyphen=[hyphen emdash endash softhyphen];
+@_KERN_i_1ST=[i  idotless iacute icircumflex idieresis igrave];
+@_KERN_i_2ND=[i  idotless iacute icircumflex idieresis igrave];
 @_KERN_l_2ND=[l ];
 @_KERN_n_1ST=[n  h m ntilde];
 @_KERN_n_2ND=[n  m ntilde r];
@@ -104,7 +100,7 @@ capHeight = 1433;
 customParameters = (
 {
 name = typoDescender;
-value = 508;
+value = -508;
 },
 {
 name = typoLineGap;
@@ -5352,17 +5348,21 @@ layers = (
 hints = (
 {
 place = "{72, 148}";
+type = Stem;
 },
 {
 place = "{494, 150}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{780, 80}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{1094, 80}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -5438,17 +5438,21 @@ layers = (
 hints = (
 {
 place = "{82, 137}";
+type = Stem;
 },
 {
 place = "{553, 139}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{702, 62}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{1262, 59}";
+type = Stem;
 }
 );
 layerId = UUID0;
@@ -12777,10 +12781,9 @@ slash = -30;
 };
 };
 };
-keyboardIncrement = 0;
 manufacturer = "Yulya Zhdanova, Ivan Petrov";
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }
