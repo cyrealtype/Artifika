@@ -6744,9 +6744,10 @@ glyphname = nbspace;
 layers = (
 {
 layerId = UUID0;
-width = 410;
+width = 560;
 }
 );
+widthMetricsKey = "=space";
 unicode = 00A0;
 },
 {
