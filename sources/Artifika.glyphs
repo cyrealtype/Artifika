@@ -1,5 +1,5 @@
 {
-.appVersion = "3149";
+.appVersion = "3141";
 DisplayStrings = (
 "./quotedblright",
 "«»"
@@ -6744,10 +6744,9 @@ glyphname = nbspace;
 layers = (
 {
 layerId = UUID0;
-width = 560;
+width = 410;
 }
 );
-widthMetricsKey = "=space";
 unicode = 00A0;
 },
 {
@@ -12057,7 +12056,6 @@ s = -76;
 semicolon = -37;
 seven = 16;
 slash = -96;
-softhyphen = -49;
 t = -16;
 u = -41;
 uacute = -41;
@@ -12071,6 +12069,7 @@ y = -41;
 yacute = -41;
 ydieresis = -41;
 z = -78;
+softhyphen = -49;
 };
 G = {
 f = -29;
@@ -12186,7 +12185,6 @@ endash = -76;
 f = -14;
 germandbls = -14;
 hyphen = -76;
-softhyphen = -76;
 t = -20;
 v = -152;
 w = -137;
@@ -12194,6 +12192,7 @@ x = -10;
 y = -145;
 yacute = -145;
 ydieresis = -145;
+softhyphen = -76;
 };
 L = {
 B = -12;
@@ -12267,7 +12266,6 @@ quoteleft = -182;
 quoteright = -184;
 quotesingle = -184;
 r = -10;
-softhyphen = -150;
 t = -43;
 u = -14;
 uacute = -14;
@@ -12279,6 +12277,7 @@ w = -164;
 y = -184;
 yacute = -184;
 ydieresis = -184;
+softhyphen = -150;
 };
 M = {
 C = -14;
@@ -12343,7 +12342,6 @@ quoteleft = -51;
 quoteright = -51;
 quotesingle = -51;
 r = -10;
-softhyphen = -43;
 t = -20;
 u = -14;
 uacute = -14;
@@ -12355,6 +12353,7 @@ w = -49;
 y = -47;
 yacute = -47;
 ydieresis = -47;
+softhyphen = -43;
 };
 N = {
 d = -12;
@@ -12650,7 +12649,6 @@ semicolon = -102;
 seven = 43;
 six = -27;
 slash = -96;
-softhyphen = -135;
 t = -80;
 thorn = 39;
 u = -133;
@@ -12666,6 +12664,7 @@ yacute = -178;
 ydieresis = -178;
 z = -203;
 zero = -23;
+softhyphen = -135;
 };
 Thorn = {
 A = -20;
@@ -12807,7 +12806,6 @@ quotesinglbase = -143;
 r = -12;
 s = -70;
 slash = -59;
-softhyphen = -16;
 u = -10;
 uacute = -10;
 ucircumflex = -10;
@@ -12820,6 +12818,7 @@ y = -16;
 yacute = -16;
 ydieresis = -16;
 z = -37;
+softhyphen = -16;
 };
 W = {
 A = -45;
@@ -12893,7 +12892,6 @@ quotesinglbase = -143;
 r = -14;
 s = -66;
 slash = -61;
-softhyphen = -20;
 u = -12;
 uacute = -12;
 ucircumflex = -12;
@@ -12906,6 +12904,7 @@ y = -16;
 yacute = -16;
 ydieresis = -16;
 z = -39;
+softhyphen = -20;
 };
 X = {
 C = -10;
@@ -12946,7 +12945,6 @@ quoteleft = -25;
 quoteright = -29;
 quotesingle = -27;
 r = -16;
-softhyphen = -104;
 t = -35;
 u = -18;
 uacute = -18;
@@ -12959,6 +12957,7 @@ x = -14;
 y = -145;
 yacute = -145;
 ydieresis = -145;
+softhyphen = -104;
 };
 Y = {
 AE = -98;
@@ -13055,7 +13054,6 @@ otilde = -31;
 p = -20;
 q = -23;
 r = -20;
-softhyphen = -88;
 t = -23;
 u = -23;
 uacute = -23;
@@ -13068,6 +13066,7 @@ x = -18;
 y = -92;
 yacute = -92;
 ydieresis = -92;
+softhyphen = -88;
 };
 a = {
 J = -8;
@@ -13436,12 +13435,12 @@ Ugrave = -16;
 emdash = -20;
 endash = -20;
 hyphen = -20;
-softhyphen = -20;
 v = -20;
 w = -8;
 y = -8;
 yacute = -8;
 ydieresis = -8;
+softhyphen = -20;
 };
 degree = {
 four = -53;
@@ -13664,9 +13663,9 @@ quotedblright = 41;
 quoteright = 41;
 quotesinglbase = -47;
 slash = -25;
-softhyphen = -43;
 t = 63;
 thorn = 176;
+softhyphen = -43;
 };
 four = {
 T = -23;
@@ -13897,12 +13896,12 @@ emdash = -20;
 endash = -20;
 hyphen = -20;
 periodcentered = -156;
-softhyphen = -20;
 v = -8;
 w = -8;
 y = -8;
 yacute = -8;
 ydieresis = -8;
+softhyphen = -20;
 };
 m = {
 G = -18;
@@ -14591,9 +14590,9 @@ emdash = -18;
 endash = -18;
 hyphen = -18;
 parenright = -20;
-softhyphen = -18;
 v = -20;
 w = -10;
+softhyphen = -18;
 };
 seven = {
 A = -39;
@@ -14669,25 +14668,6 @@ y = -31;
 yacute = -31;
 ydieresis = -31;
 z = -31;
-};
-softhyphen = {
-AE = -31;
-J = -25;
-M = -45;
-S = -47;
-T = -139;
-V = -113;
-W = -98;
-X = -78;
-Z = -70;
-five = -25;
-j = -18;
-one = -49;
-p = -18;
-seven = -98;
-three = -63;
-two = -100;
-z = -33;
 };
 t = {
 T = -178;
@@ -15029,6 +15009,25 @@ period = -33;
 quotedblbase = -33;
 quotesinglbase = -33;
 slash = -31;
+};
+softhyphen = {
+AE = -31;
+J = -25;
+M = -45;
+S = -47;
+T = -139;
+V = -113;
+W = -98;
+X = -78;
+Z = -70;
+five = -25;
+j = -18;
+one = -49;
+p = -18;
+seven = -98;
+three = -63;
+two = -100;
+z = -33;
 };
 };
 };
